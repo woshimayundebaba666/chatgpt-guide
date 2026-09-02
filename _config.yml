@@ -1,0 +1,13 @@
+title: ChatGPT 使用导航
+subtitle: 四板块使用模板
+description: VPN 节点购买、ChatGPT 安装包、账号登录与升级、CCS 使用注意事项。
+author: ChatGPT 使用导航
+language: zh-CN
+timezone: Asia/Shanghai
+url: https://woshimayundebaba666.github.io/chatgpt-guide
+root: /chatgpt-guide/
+permalink: :year/:month/:day/:title/
+theme: arknights
+highlight:
+  hljs: true
+per_page: 0
